@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dialogs>
+    <dialog id="d1">
+        <text>Toimit vaalivalvojana. Tehtävänäsi on tutustua eri tilanteisiin mitä äänestystilaisuudessa voi tapahtua. Jokaisessa tilanteessa sinulle annetaan vaihtoehtoja, miten toimia. Yksi vastaus on oikein, loput ovat enemmän tai vähemmän väärin. Oikeasta toiminnasta saat pisteen. Vastauksista voi useampi olla oikein mutta vain eniten oikeimmasta palkitaan pisteellä. Lopuksi saat palautteen, kuinka hyvin kykenit eri tilanteissa toimimaan.</text>
+      	<answer id="a1" dialogid="d2" status="f">Joojoo...</answer>
+    </dialog>
+    <dialog id="d2">
+        <text>Olet tullut äänestyspaikkaan jo hyvissä ajoin kello 7:50. Työkaveri miettii että olisi hyvä jo avata ovet ja päästää äänestäjät sisään.</text>
+        <answer id="a2" dialogid="d3" status="f">Annat kaverin avata ovet, eipähän itse tarvitse lukkojen kanssa tapella.</answer>
+        <answer id="a3" dialogid="d4" status="t">Estät kaveria! Äänestäminen saa alkaa vasta tasan kello 9:00.</answer>
+        <answer id="a4" dialogid="d3" status="f">Estät kaveria! Äänestäminen saa alkaa vasta tasan kello 8:00.</answer>
+    </dialog>
+    <dialog id="d3">
+        <text>Väärin! Äänestystilaisuus saa alkaa vasta kello 9:00 ja loppuu illalla 20:00.</text>
+        <answer id="a5" dialogid="d5" status="f">Ok :O</answer>
+    </dialog>
+    <dialog id="d4">
+   		<text>Oikein! Äänestystilaisuuden saa avata vasta kello 9:00 aamulla ja äänestystilaisuus loppuu illalla kello 20:00.</text>
+   		<answer id="a6" dialogid="d5" status="f">Haha olinpas oikeassa :'D</answer>
+   	</dialog>
+   	<dialog id="d5">
+   	    <text>Ovet ovat auki ja ensimmäinen äänestäjä valuu sisään. Äänestäjä ryömii eteesi ja murahtaa "Äänestään tulin".</text>
+   		<answer id="a7" dialogid="d8" status="t">Pyydät häntä näyttämään kuvallisen henkilöllisyystodistuksen, kuten ajokortin tai passin.</answer>
+   		<answer id="a8" dialogid="d6" status="f">Ojennat hänelle äänestyslapun ja toivotat hyviä äänestämisiä hymyn kera :)</answer>
+   		<answer id="a9" dialogid="d7" status="f">Katsot henkilöä hetken ja lasket mielessäsi, että tämä henkilö ulkonäöstä päätellen äänestää kyllä muuta puoluetta kuin sinä itse kannatat. Käännytät äänestäjän ulos ja sanot ettei ole asiaa tulla takaisin. Varmistat tällä uroteolla sen, että ainakin yksi ääni on taas vähemmän kilpailevilla puolueilla.</answer>
+   	</dialog>
+   	<dialog id="d6">
+   	    <text>Väärin! Vaalivirkailijan tulee tarkistaa aina äänestäjän henkilöllisyys sekä onko hän hänelle ennalta määritellyssä äänestyspaikassa.</text>
+   	    <answer id="a10" dialogid="d11" status="f">No emmää tienny...</answer>
+   	</dialog>
+   	<dialog id="d7">
+   	    <text>Äänestäjä on ensin pöllämystynyt teostasi. Hän sanoo *sensuroitu* ja selkiinnyttää mielipidettään kansainvälisin käsimerkein. Sanomattakin selvää että toimit väärin! Ketään ei käännytellä ja ensin kysellään kuvalliset henkilöllisyystodistukset!</text>
+   	    <answer id="a11" dialogid="d11" status="f">Syvällä sydämessäsi tiedät tehneesi oikein kun estit häntä äänestämästä väärin.</answer>
+   	</dialog>
+   	<dialog id="d8">
+   	    <text>Oikein. Aina pitää tarkistaa äänestäjän henkilöllisyys kuvallisesta henkilöllisyystodistuksesta. Seuraavaksi...</text>
+   		<answer id="a12" dialogid="d9" status="f">Vertaat löytyykö kyseistä henkilöä listasta. Löydät nimen ja annat äänestäjälle äänestyslipukkeen.</answer>
+   		<answer id="a13" dialogid="d10" status="t">Vertaat löytyykö kyseistä henkilöä listasta. Löydät nimen, annat äänestäjälle äänestyslipukkeen ja merkitset hänet äänestäneeksi listaan.</answer>
+   		<answer id="a14" dialogid="d9" status="f">Et löydä nimeä mutta kirjoitat hänet äänestäneeksi ja ojennat hänelle äänestyslipukkeen.</answer>
+   	</dialog>
+   	<dialog id="d9">
+   	    <text>Väärin! Jokaisella äänestäjällä on ennalta määrätty äänestämispaikka. Äänestäjän henkilöllisyys pitää löytyä paperista ja mikäli äänestäjän nimeä ei paperista löydy, todennäköisesti hän on väärässä äänestyspaikassa tai hänellä ei ole muuten oikeutta äänestää. Jos nimi paperista löytyy, pitää hänet merkitä siihen äänestäneeksi. Tällä tavoin varmistetaan ettei sama henkilö äänestä useampaan otteeseen.</text>
+   	   	<answer id="a15" dialogid="d10" status="f">Tämä selvä :)</answer>
+   	</dialog>
+   	<dialog id="d10">
+   	    <text>Oikein! Pitää tarkistaa löytyykö äänestäjä kyseisen äänestyspaikan nimilistoista. Jos löytyy, täytyy hänet merkitä äänestäneeksi ettei vahingossa tule useampaan kertaan äänestettyä. Jokaisella äänestäjällä on ennalta määrätty äänestyspaikka, josta hänen nimensä löytyy listoista. Jos nimeä ei löytyisi listalta, olisi äänestäjä todennäköisesti väärässä äänestyspisteessä tai hänellä ei ole äänestysoikeutta.</text>
+   	    <answer id="a16" dialogid="d11" status="f">:3 juu!</answer>
+   	</dialog>
+	<dialog id="d11">
+		<text>Hoideltuasi ensimmäisen äänestäjän, vaappuu eteesi toinen äänestäjä. Hän ilmoittaa hukanneensa postissa saaneensa äänestyskortin eikä tiedä voiko hän äänestää. Vastaat...</text>
+		<answer id="a17" dialogid="d12" status="f">Että hän ei ikävä kyllä voi äänestää ilman postissa saamaansa äänestyskorttia.</answer>
+		<answer id="a18" dialogid="d13" status="t">Että hän voi äänestää, sillä postissa saatu äänestyskortti ei ole pakollinen.</answer>
+	</dialog>
+	<dialog id="d12">
+		<text>Väärin! Vain kuvallinen henkilöllisyystodistus vaaditaan.</text>
+		<answer id="a19" dialogid="d14" status="f">Mjooh</answer>
+	</dialog>
+	<dialog id="d13">
+		<text>Oikein! Ainoastaan kuvallinen henkilöllisyystodistus vaaditaan.</text>
+		<answer id="a20" dialogid="d14" status="f">Jepulis</answer>
+	</dialog>
+	<dialog id="d14">
+		<text>Seuraavaksi paikalle saapuu mies, jonka molemmat kädet ovat kipsissä. Selkeästi, hän ei kykene kirjoittamaan itse äänestyslipukettaan. Koska itsekin olet mies, tunnet miestä kohtaan veljellistä myötätuntoa, sillä tämä mies tietää mitä on kurjuus! Mies kysyy, voiko hän miten nyt äänestää.</text>
+		<answer id="a21" dialogid="d15" status="f">Ei mitenkään. Vaalikoppiin saa mennä vain äänestäjä itse. Jos hän ei kykene itse äänestämään, hän ei saa äänestää.</answer>
+		<answer id="a22" dialogid="d16" status="t">Neuvot toista vaalivirkailijaa toimimaan hänelle vaaliavustajana, joka menee koppiin äänestäjän kanssa kirjoittamaan lapun äänestäjän valinnan mukaan.</answer>
+	</dialog>
+	<dialog id="d15">
+		<text>Njet! No! Inte ja ei. Jos äänestäjä ei kykene itse kirjoittamaan ehdokastaan paperille, saa hän valita kenet tahansa (paitsi ehdolla olevan henkilön) avustamaan tai pyytää paikalla olevaa virallista vaaliavustajaa apuun.</text>
+		<answer id="a23" dialogid="d17" status="f">Tämähän kuulostaa hyvälle!</answer>
+	</dialog>
+	<dialog id="d16">
+		<text>Oikein! Jos äänestäjä ei voi itse ehdokastaan paperille tuhertaa, voi hän tuoda oman vaaliavustajan paikalle tai pyytää vaalivirkailijoita apuun.</text>
+		<answer id="a24" dialogid="d17" status="f">k</answer>
+	</dialog>
+	<dialog id="d17">
+		<text>Seuraavaksi siirrytään seuraamaan mitä kopissa tapahtuu! Seuraavina hetkinä toimit kädet kipsissä olevan miehen vaaliavustajana.</text>
+		<answer id="a25" dialogid="d18" status="f">Jännää!</answer>
+	</dialog>
+	<dialog id="d18">
+		<text>Äänestäjä katsoo kopin seinällä olevia ehdokkaita. "Miksi en näy Aku Ankkaa ehdokkaiden joukossa?"</text>
+		<answer id="a26" dialogid="d20" status="t">Mietit hetken ja muistat, että ehdokas Aku Ankkahan on eri vaalipiirissä kuin äänestäjä itse on kotoisin. Neuvot, ettei Aku Ankkaa voi tässä vaalipiirissä äänestää.</answer>
+		<answer id="a27" dialogid="d19" status="f">Mietit hetken ja muistat, että ehdokas Aku Ankkahan on eri vaalipiirissä kuin äänestäjä itse on kotoisin. Se ei onneksi haittaa. Äänestää voi myös vaalipiirien ylitse, ja kerrot että hänen ehdokasnumeronsa on 42.</answer>
+	</dialog>
+	<dialog id="d19">
+		<text>Kääk! Menipä väärin tällä kertaa! Vain omassa vaalipiirissä olevaa ehdokasta voi äänestää.</text>
+		<answer id="a28" dialogid="d21" status="f">Juu niinhän se olikin joo</answer>
+	</dialog>
+	<dialog id="d20">
+		<text>Oikein! Vain omaan vaalipiiriin kuuluvaa ehdokasta voi äänestää.</text>
+		<answer id="a29" dialogid="d21" status="f">Just niin</answer>
+	</dialog>
+	<dialog id="d21">
+		<text>Koska Akun äänestys ei nyt toimi, on äänestäjä valtavan henkisen paineen alla. "Ketäs minä sitten äänestäisin? Kuka olisi hyvä ehdokas?", kyselee mies epätoivoissaan.</text>
+		<answer id="a30" dialogid="d22" status="f">Ehdokas Nönnönnööö on tunnettu, asiallinen sekä fiksu ehdokas. Opastat äänestäjää että siinä vasta olisi mies paikallaan.</answer>
+		<answer id="a31" dialogid="d23" status="t">Kerrot, että se on äänestäjän oma tehtävä päättää, kenelle äänensä antaa.</answer>
+	</dialog>
+	<dialog id="d22">
+		<text>Vääärin kolmella äällä. Vaaliavustaja ei saa ehdotella ehdokkaita. Jokaisen äänestäjän tulee itse tehdä omat päätöksensä.</text>
+		<answer id="a32" dialogid="d25" status="f">Mutta kun se kuitenkin äänestää väärin.... no ei voi mitään.</answer>
+	</dialog>
+	<dialog id="d23">
+		<text>Oikein. Äänestäjä itse päättää ehdokkaan ketä äänestää.</text>
+		<answer id="a33" dialogid="d25" status="f">Näimpä!</answer>
+	</dialog>
+	<dialog id="d25">
+		<text>Äänestäjä keksii äänestää Kerttu Kelmiä, jonka ehdokasnumero on 6. Miten toimit?</text>
+		<answer id="a34" dialogid="d27" status="t">Kirjoitat ehdokkaan numeron lapulle numerolle tarkoitetulle kohdalle, joka on ympyröity. Et mitään muuta.</answer>
+		<answer id="a35" dialogid="d26" status="f">Kirjoitat ehdokkaan numeron lapulle numerolle tarkoitetulle kohdalle, joka on ympyröity, sekä ehdokkaan nimen.</answer>
+		<answer id="a36" dialogid="d26" status="f">Kirjoitat ehdokkaan numeron lapulle numerolle tarkoitetulle kohdalle, joka on ympyröity. Lisäät myös ehdokasta tsempataksesi pienen sydämen äänestyslipukkeeseen.</answer>
+	</dialog>
+	<dialog id="d26">
+		<text>Virhe! Lapulle saa vain kirjoittaa ehdokkaan numeron eikä mitään muuta. Vaikka numero on selkeä, se hylätään jos siinä on jotain pientäkin ylimääräistä.</text>
+		<answer id="a37" dialogid="d28" status="f">Voihan juusto! Ei siis parane piirrellä!</answer>
+	</dialog>
+	<dialog id="d27">
+		<text>Oikein. Lappuun ei saa laittaa muuta kuin ehdokkaan numeron selkeästi.</text>
+		<answer id="a38" dialogid="d28" status="f">Tiesin sen, höhö.</answer>
+	</dialog>
+	<dialog id="d28">
+		<text>Lapussa on numero selkeästi merkattuna ilman ylimääräisiä merkintöjä. Mitä seuraavaksi?</text>
+		<answer id="a39" dialogid="d29" status="f">Kiikutat lapun vaaliuurnavastaavalle, joka leimaa lapun, ja sitten se tiputetaan vaaliuurnaan.</answer>
+		<answer id="a40" dialogid="d29" status="f">Kiikutat lapun vaaliuurnavastaavalle, jonka luona lappu tiputetaan vaaliuurnaan.</answer>
+		<answer id="a41" dialogid="d30" status="t">Taittelet lapun kaksinkerroin, kiikutat lapun vaaliuurnavastaavalle, joka leimaa lapun, ja sitten se tiputetaan vaaliuurnaan.</answer>
+	</dialog>
+	<dialog id="d29">
+		<text>Väärin, lappu taitellaan, viedään vaaliuurnaa valvovalle vaalivirkailijalle, joka leimaa lapun ja sitten se tiputetaan vaaliuurnaan.</text>
+		<answer id="a42" dialogid="d31" status="f">ai</answer>
+	</dialog>
+	<dialog id="d30">
+		<text>Jep</text>
+		<answer id="a43" dialogid="d31" status="f">Jap</answer>
+		<answer id="a44" dialogid="d31" status="f">Jep</answer>
+		<answer id="a45" dialogid="d31" status="f">Jup</answer>
+	</dialog>
+	<dialog id="d31">
+		<text>Onneksi olkoon, siinä se sitten taisi ollakin! Seuraavaksi saat tietää miten hyvin onnistuit testissä vastaamaan.</text>
+		<answer id="a46" dialogid="d32" status="f">Tuloksiin</answer>
+	</dialog>
+	<dialog id="d32">
+		<text>Olet todellinen taituri ja mestariäänestäjä!</text>
+		<answer id="a47" dialogid="d50" status="f">Uusi peli</answer>
+		<answer id="a48" dialogid="d51" status="f">Alkuvalikkoon</answer>
+		<answer id="a49" dialogid="d52" status="f">Lopeta peli</answer>
+	</dialog>
+	<dialog id="d33">
+		<text>Tietämyksesi äänestystoiminnasta on hyvällä mallilla. Vähän on parannettavaa, mutta ei paljoa. Hyvähyvä!</text>
+		<answer id="a47" dialogid="d50" status="f">Uusi peli</answer>
+		<answer id="a48" dialogid="d51" status="f">Alkuvalikkoon</answer>
+		<answer id="a49" dialogid="d52" status="f">Lopeta peli</answer>
+	</dialog>
+	<dialog id="d34">
+		<text>Hieman on vielä opettelemista asioissa, mutta varmasti peli opetti ainakin yhden tai pari uutta asiaa äänestämisestä.</text>
+		<answer id="a47" dialogid="d50" status="f">Uusi peli</answer>
+		<answer id="a48" dialogid="d51" status="f">Alkuvalikkoon</answer>
+		<answer id="a49" dialogid="d52" status="f">Lopeta peli</answer>
+	</dialog>
+	<dialog id="d35">
+		<text>Olen sanaton ._.'</text>
+		<answer id="a47" dialogid="d50" status="f">Uusi peli</answer>
+		<answer id="a48" dialogid="d51" status="f">Alkuvalikkoon</answer>
+		<answer id="a49" dialogid="d52" status="f">Lopeta peli</answer>
+	</dialog>
+</dialogs>

@@ -1,0 +1,13 @@
+2.5h suunnitelman maistelemista ja kehittämistä ja lähteiden tutkimista
+0,25h peliprojektin alustus
+1h dialogien kirjoitus
+1h rungon rakennusta
+1h lisää rungon rakennusta
+1.5h perustoimintojen kasaaminen
+0.75h grafiikat
+1.5h kiroiltu scene2d:tä ja sen asettelua
+1h samaa paskaa
+2.5h loput dialogit kasaan, dialogien läpitarkistus (oikeat viitteet ja asiatarkistus) sekä muuta pientä säätöä
+0.5h ihmeteltiin parempia ja selvempiä fontteja
+2.5 viimeistelyä ja äänten lisäämistä, hieman rakenne muutosta ja purkkien rakentelua
+2h alkuvalikot, exe muotoon muuttamista ja tutustumista eri jar->exe ohjelmistoihin

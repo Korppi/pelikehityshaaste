@@ -1,0 +1,46 @@
+
+assets.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arkku
+  rotate: false
+  xy: 2, 340
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+tyopoyta
+  rotate: false
+  xy: 2, 2
+  size: 800, 336
+  orig: 800, 336
+  offset: 0, 0
+  index: -1
+
+assets2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+koppi
+  rotate: false
+  xy: 2, 2
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+assets3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taka-ala
+  rotate: false
+  xy: 2, 2
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

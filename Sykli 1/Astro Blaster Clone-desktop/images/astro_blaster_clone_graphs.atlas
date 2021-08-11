@@ -1,0 +1,705 @@
+
+astro_blaster_clone_graphs.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+408-0
+  rotate: false
+  xy: 2, 2
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+astro_blaster_clone_graphs2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ships and shit/BeamMk2
+  rotate: false
+  xy: 348, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/Beetle
+  rotate: false
+  xy: 414, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/Turret
+  rotate: false
+  xy: 480, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10000
+  rotate: false
+  xy: 546, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10001
+  rotate: false
+  xy: 612, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10002
+  rotate: false
+  xy: 678, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10003
+  rotate: false
+  xy: 744, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10004
+  rotate: false
+  xy: 810, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10005
+  rotate: false
+  xy: 876, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10006
+  rotate: false
+  xy: 942, 943
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10007
+  rotate: false
+  xy: 348, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10008
+  rotate: false
+  xy: 414, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10009
+  rotate: false
+  xy: 480, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10010
+  rotate: false
+  xy: 546, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10011
+  rotate: false
+  xy: 612, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10012
+  rotate: false
+  xy: 678, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10013
+  rotate: false
+  xy: 744, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10014
+  rotate: false
+  xy: 810, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a10015
+  rotate: false
+  xy: 876, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30000
+  rotate: false
+  xy: 942, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30001
+  rotate: false
+  xy: 114, 818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30002
+  rotate: false
+  xy: 114, 752
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30003
+  rotate: false
+  xy: 180, 818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30004
+  rotate: false
+  xy: 114, 686
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30005
+  rotate: false
+  xy: 180, 752
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30006
+  rotate: false
+  xy: 246, 818
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30007
+  rotate: false
+  xy: 114, 620
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30008
+  rotate: false
+  xy: 180, 686
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30009
+  rotate: false
+  xy: 246, 752
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30010
+  rotate: false
+  xy: 114, 554
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30011
+  rotate: false
+  xy: 180, 620
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30012
+  rotate: false
+  xy: 246, 686
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30013
+  rotate: false
+  xy: 114, 488
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30014
+  rotate: false
+  xy: 180, 554
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a30015
+  rotate: false
+  xy: 246, 620
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40000
+  rotate: false
+  xy: 114, 422
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40001
+  rotate: false
+  xy: 180, 488
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40002
+  rotate: false
+  xy: 246, 554
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40003
+  rotate: false
+  xy: 114, 356
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40004
+  rotate: false
+  xy: 180, 422
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40005
+  rotate: false
+  xy: 246, 488
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40006
+  rotate: false
+  xy: 114, 290
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40007
+  rotate: false
+  xy: 180, 356
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40008
+  rotate: false
+  xy: 246, 422
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40009
+  rotate: false
+  xy: 114, 224
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40010
+  rotate: false
+  xy: 180, 290
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40011
+  rotate: false
+  xy: 246, 356
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40012
+  rotate: false
+  xy: 114, 158
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40013
+  rotate: false
+  xy: 180, 224
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40014
+  rotate: false
+  xy: 246, 290
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/a40015
+  rotate: false
+  xy: 114, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/backPalkki
+  rotate: false
+  xy: 1008, 1005
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+ships and shit/bullet
+  rotate: false
+  xy: 2, 2
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+ships and shit/expl00a
+  rotate: false
+  xy: 180, 158
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl01a
+  rotate: false
+  xy: 246, 224
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl02a
+  rotate: false
+  xy: 114, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl03a
+  rotate: false
+  xy: 180, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl04a
+  rotate: false
+  xy: 246, 158
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl05a
+  rotate: false
+  xy: 180, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl06a
+  rotate: false
+  xy: 246, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl07a
+  rotate: false
+  xy: 246, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl08a
+  rotate: false
+  xy: 312, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl09a
+  rotate: false
+  xy: 312, 745
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl10a
+  rotate: false
+  xy: 378, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl11a
+  rotate: false
+  xy: 312, 679
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl12a
+  rotate: false
+  xy: 378, 745
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl13a
+  rotate: false
+  xy: 444, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl14a
+  rotate: false
+  xy: 312, 613
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl15a
+  rotate: false
+  xy: 378, 679
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl16a
+  rotate: false
+  xy: 444, 745
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl17a
+  rotate: false
+  xy: 510, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl18a
+  rotate: false
+  xy: 312, 547
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl19a
+  rotate: false
+  xy: 378, 613
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl20a
+  rotate: false
+  xy: 444, 679
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl21a
+  rotate: false
+  xy: 510, 745
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl22a
+  rotate: false
+  xy: 576, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl23a
+  rotate: false
+  xy: 312, 481
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl24a
+  rotate: false
+  xy: 378, 547
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl25a
+  rotate: false
+  xy: 444, 613
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl26a
+  rotate: false
+  xy: 510, 679
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl27a
+  rotate: false
+  xy: 576, 745
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl28a
+  rotate: false
+  xy: 642, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl29a
+  rotate: false
+  xy: 312, 415
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl30a
+  rotate: false
+  xy: 378, 481
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/expl31a
+  rotate: false
+  xy: 444, 547
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ships and shit/frontPalkki
+  rotate: false
+  xy: 114, 22
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+ships and shit/frontPalkki2
+  rotate: false
+  xy: 312, 880
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0001
+  rotate: false
+  xy: 2, 762
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0002
+  rotate: false
+  xy: 2, 637
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0003
+  rotate: false
+  xy: 2, 512
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0004
+  rotate: false
+  xy: 2, 387
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0005
+  rotate: false
+  xy: 2, 262
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0006
+  rotate: false
+  xy: 2, 137
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0007
+  rotate: false
+  xy: 2, 12
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0008
+  rotate: false
+  xy: 124, 884
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/redfighter0009
+  rotate: false
+  xy: 236, 884
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+ships and shit/spr_shield
+  rotate: false
+  xy: 2, 887
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ships and shit/star
+  rotate: false
+  xy: 510, 637
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

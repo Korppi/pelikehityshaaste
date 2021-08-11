@@ -1,0 +1,11 @@
+Kartan proseduraalinen luonti ja s‰‰nnˆt pseudokoodina:
+
+m‰‰ritet‰‰n kartan koko.
+luodaan keskelle karttaa aloitushuone.
+valitaan jokin random huoneen random sein‰m‰ johon tehd‰‰n k‰yt‰v‰n alku.
+tarkistetaan, voiko k‰yt‰v‰lle olla tilaa.
+jos ei, valitaan uusi k‰yt‰v‰n alku.
+jos on, tehd‰‰n uusi huone (valitaan, mik‰ ja mink‰ mallinen)
+
+huoneita per leveli:
+

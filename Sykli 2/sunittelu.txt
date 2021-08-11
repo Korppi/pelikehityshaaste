@@ -1,0 +1,60 @@
+politikka peli
+
+dialogimainen eteneminen vaalien äänestystilaisuudessa.
+
+valvoja:
+	henkilöllisyystodistus (kuvallinen, kuvaton ei kelpaa... passi tai ajokortti esmes)
+	äänestyspaikan tarkastus
+	tarkastus, ettei ole jo äänestänyt
+	kymysys että äänestyskortti jäi
+	tarkistus, että on äänioikeutettu (liian nuori tai ei suomen kansalainen)
+	vaaliavustaja (oma, ei ehdokas)
+	vaaliavustaja (ei oma)
+	
+vaaliavustaja:
+	äänestäjä kysyy ketä pitäisi äänestää (ei saa ehdottaa!)
+	auttaa miksi ei löydy tiettyä henkilöä (väärä vaalipiiri)
+	
+äänestäjä:
+	ehdokkaan numerointi lappuun (6 ja 9!)
+	ehdokkaan nimen kirjoitus
+	lapun taittelu
+	
+vaaliuurnavastaava:
+	leimaaminen!
+	
+valvojan toiminnot:
+	käy läpi nimilistaa ja yliviivaa äänestäjän
+	
+-----------------------------------------------------------------------------------------------------
+Hanna Wassin artikkelin perusteella nuoret 18-24 -vuotiaat ovat edelleen pienin äänestysryhmä. 
+Syitä äänestysprosentin pienuuteen on varmaan monia mutta varmasti osasyynä on epätietoisuus 
+vaaleista, vaikuttamisesta ja itse vaalitilanteesta. Tästä innostuneena mietinkin peliä, jossa 
+opetetaan nuoria miten äänestystilanteessa käyttäydytään, mitkä asiat koskevat ja säätävät äänestämistä 
+ja mitä kaikkea tulee ottaa huomioon.
+
+Pelissä seurataan järjestyksessä äänestyksen etenemistä. Peli on vahvasti dialogipainoitteinen jossa 
+pelaajalle annetaan tilaisuus vastata eri tilanteisiin erilaisilla tavoilla. Oikeasta vastauksesta pelaaja 
+palkitaan pisteellä. Valitsee pelaaja sitten väärin tai oikein, tilanteen jälkeen voidaan asiaa selittää tarkemmin.
+Tarkoitus on esitellä äänestystilaisuus ja siihen liittyvät toimenpiteet nuoremmalle ja miksei vanhemmallekin 
+kohdehenkilölle. Pelaaja toimii vuorotellen jossakin vaalivalvojan roolissa. Tilanteita ovat äänestyspaikalle 
+saapuminen ja ilmoittautuminen, vaaliavustajan toiminta, äänestyslipukkeeseen ehdokkaan merkkaaminen ja vaalipiirien 
+merkitys sekä äänestyslipukkeen luovutus.
+
+Pelin graafinen ilme on vielä epävarmaa. Todennäköisesti keskitytään pelkästään dialogimaiseen toteutukseen. Jos asia 
+mielessä muhii johonkin suuntaan, niin lisätään vähän omatoimisesti luotua tasotonta grafiikkaa.
+
+Peli tehdään taas javalla ja libGDX kirjastolla. Dialogeissa mietin hyödyntää ehkä xml:ää, jonne dialogit vaihtoehtoineen ja 
+pisteytyksineen kirjataan ylös ja jota sitten peli osaa lukea.
+
+Pelin lopussa pelaajan pisteet lasketaan ja niistä annetaan jonkinlainen palaute pelaajalle, joka kertoo millä tasolla pelaajan 
+tietämys on. Mikäli pelissä on ehdokkaita, niin ne nimetään satunnaisesti päästä keksityillä nimillä ja puolueilla, jottei 
+minkäänsortin viitettä oikean elämän politiikkoihin tai puolueisiin ilmene.
+
+Hieman ideaa peliin on myös lainattu oikeusministeriön vaaliopetusvideosta.
+
+Lähteet: 	Opetusministeriö, näin äänestät eduskuntavaaleissa vaalipäivänä, https://www.youtube.com/watch?v=tofQ8xR_5HA
+			Tilastokeskus Hanna Wass http://www.stat.fi/artikkelit/2011/art_2011-09-26_004.html
+-------------------
+tehdään varmaan scene2d koska siinä on ne kaikki kivat actionit jne.
+jokainen elementti on actor

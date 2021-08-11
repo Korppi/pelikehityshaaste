@@ -1,0 +1,19 @@
+2h menujen uudelleensäätöä
+2h menuja
+2h pelirunkoa
+1.5h lisää pelirunkoa
+2.5h pelirunkoa: pelaajaa, leveli ja panosjuttuja
+2h vihollisaaltojen suunnittelua ja toteutusta, ensimmäisen aallon liikkuminen 
+2h törmäyksiä ja muuta
+2.5h räjähdykset, levelien ja aaltojen päivitys/lisäys/vaihtojuttuja, testausta ja suunnitelman mietintää ja sen kirjoittamista
+1.5h guita ja suunnitelmaa
+1h toista squadia
+3.5h toinen squadi loppuun ja kolmannen aloittaminen
+3h kolmas squadi ja bugien metsästys
+2h hidastus, powerupit
+3h viimeistely, loput squadit
+1h testaus ja bugimetsästys
+1.5h bugien korjaus ja post mortem
+0.5h pelin kuvaus
+
+yhteensä: 33.5 tuntia

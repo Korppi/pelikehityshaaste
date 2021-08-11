@@ -1,0 +1,19 @@
+2h aiheesta lukua, artikkeleihin tutustumista ja suunnitelman kehittämistä
+1h rungon luontia ja suunnitelemista
+2h grafiikoiden keruuta ja pelirungon luontia
+2h luotiin alkuvalikko kuntoon, etsittiin ja lisättiin ääniä ja grafiikkaa
+4h luotiin lisää runkoa pelille, lisäiltiin lisää grafiikkaa, luotiin peli-ikkuna ja testattiin nopeasti että kartan piirto onnistuu
+0.5h suunnitelman kirjoitusta
+0.5h huoneiden generoimisen pohjan luontia
+2.5h generointikoodin setvitystä siinä onnistumatta
+2h korjattiin generaattorissa ilmennyt vika ja testattiin karttojen luontia
+2h tehtiin rekursiivinen käytävänluontigenerointi kuntoon ja tarkisteltiin asioita
+0.5h ovipaikkojen tunnistusta toteutettu
+1h viilattu sitä sun tätä kartan generoimisessa
+2h kartan ovien etsintää, vikojen etsimistä, screenshottien ottamista raporttiin/testaukseen jne
+0.5h ihmetelty edelleen ovien etsintää ja luontia
+2h ovijutun tekemistä, testaamista ja yhden bugin ihmettelyä joka ei ratkennut
+2h loppufiilailua, bugien etsintä, löyty ja kiroaminen
+0.5h siistimistä ja jakoon menevän .jar luonti
+0.5h loppuraportti
+27,5tuntia yhteensä (testi toimiiko gitti vai mikä on?)

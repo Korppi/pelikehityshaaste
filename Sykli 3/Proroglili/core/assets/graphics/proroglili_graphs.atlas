@@ -1,0 +1,89 @@
+
+proroglili_graphs.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bkg
+  rotate: false
+  xy: 2, 96
+  size: 1325, 820
+  orig: 1325, 820
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 2
+  size: 464, 92
+  orig: 464, 92
+  offset: 0, 0
+  index: -1
+
+proroglili_graphs2.png
+size: 128,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+graphs/barrel
+  rotate: false
+  xy: 12, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/door
+  rotate: false
+  xy: 22, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/fire_left
+  rotate: false
+  xy: 32, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/fire_right
+  rotate: false
+  xy: 42, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/floor_wood_light
+  rotate: false
+  xy: 52, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/knight_big
+  rotate: false
+  xy: 2, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+graphs/knight_small
+  rotate: false
+  xy: 62, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/wall_stone_dark
+  rotate: false
+  xy: 72, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+graphs/wall_stone_dark2
+  rotate: false
+  xy: 82, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
